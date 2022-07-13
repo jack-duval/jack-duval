@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jack-duval
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jack (tw: @_jackduval)
+- 👀 I’m interested in ML, blockchain dev, data analytics
+- 🌱 I’m currently learning about Machine Learning in a grad-level course @ Northeastern
+- 📫 jackcduval(at)gmail(dot)com 
+- tw: @_jackduval
 
 <!---
 jack-duval/jack-duval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
