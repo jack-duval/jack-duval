@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jack (tw: @_jackduval)
-- 👀 I’m interested in ML, blockchain dev, data analytics
-- 🌱 I’m currently learning about Machine Learning in a grad-level course @ Northeastern
+- 👀 I’m interested in Robotics, ML, and data analytics
 - 📫 jackcduval(at)gmail(dot)com 
 
 <!---
