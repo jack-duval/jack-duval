@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Jack (tw: @_jackduval)
+- 👋 Hi, I’m Jack! I'm from Boston, MA
 - 👀 I’m interested in Robotics, ML, and data analytics
+- 🛠️ I currently work on the Stretch robot at Boston Dynamics
 - 📫 jackcduval(at)gmail(dot)com 
 
 <!---
